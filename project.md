@@ -76,7 +76,7 @@
 ### Data Analysis Process:
 1. Created a pivot table for the student academic outcome and unemployment rates.
 2. Copied the values into a new table and calculated
-   1. the dropout percentage for each level of unemployment rate, using the formula: D2/G2
+    1. the dropout percentage for each level of unemployment rate, using the formula: D2/G2
 3. Change the data format into percentage.
 
 
