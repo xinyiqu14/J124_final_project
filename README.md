@@ -1,7 +1,7 @@
 # J124_final_project
 ### @Xinyi Qu
 
-## Please read this first!
+## Please read this carefully!
 **Data visualizations created by DataWrapper are hyperlinked !!!!** 
 **Click the visualization picture and you should be redirected to DataWrapper**
 
