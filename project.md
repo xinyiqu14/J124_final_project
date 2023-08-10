@@ -3,8 +3,8 @@
 
 
 ## Datasets:
-- Dataset: [Predict students' dropout and academic success. ](https://docs.google.com/spreadsheets/d/1Xm_qSJA7fMIvZjybw5cHizRww9l8UR_QYhbW4bWcby4/edit?usp=sharing)The link will redirect to google sheet. 
-
+- Dataset: [Predict students' dropout and academic success. ](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention)The link will redirect to Kaggle. 
+- Original Source: [Predicting Student Dropout and Academic Success](https://www.mdpi.com/2306-5729/7/11/146) Valentim Realinho, Jorge Machado, Luís Baptista and Mónica V. Martins
 
 ## Question 1 How are student academic outcomes distributed?  
 
