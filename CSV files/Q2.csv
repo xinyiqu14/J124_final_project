@@ -1,0 +1,10 @@
+COUNTA of Target,Target,,,
+Gender,Dropout,Enrolled,Graduate,Grand Total
+0,720,487,1661,2868
+1,701,307,548,1556
+Grand Total,1421,794,2209,4424
+,,,,
+,% female dropout,% female enrolled,% female graduate,
+female,25.10%,16.98%,57.91%,
+,% male dropout,% male enrolled,% male graduate,
+male,45.05%,19.73%,35.22%,
