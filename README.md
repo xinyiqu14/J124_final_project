@@ -1,5 +1,5 @@
 # J124_final_project
 ### @Xinyi Qu
 
-## Important!
-**Every AI generated picture is clickable**
+## Please read before check the code!
+**Data visualizations created by DataWrapper are hyperlinked !!!!**
