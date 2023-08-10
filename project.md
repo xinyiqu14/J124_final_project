@@ -2,9 +2,14 @@
 **By Xinyi Qu**
 
 
+## Story pitch:
+A sizable portion of college students drop out of their higher education each year. Such choices can have a significant impact on local economies, national communities, and the country as a whole, particularly in these turbulent and difficult times. The goal of this story is to delve deeply into the causes of these dropout rates by establishing linkages between seemingly unrelated economic and socio-cultural characteristics, such as macroeconomic performance metrics (e.g. GDP growth & unemployment rate) and demographic data on the student body (e.g. gender & parent occupation). This story will provide a multidimensional view of student dropout rates by establishing links between economic variables, sociocultural norms, and individual decisions. The aim is not just to understand the problem but to highlight intervention areas that can alleviate the situation.
+
+
 ## Datasets:
 - Dataset: [Predict students' dropout and academic success. ](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention)The link will redirect to Kaggle. 
 - Original Source: [Predicting Student Dropout and Academic Success](https://www.mdpi.com/2306-5729/7/11/146) Valentim Realinho, Jorge Machado, Luís Baptista and Mónica V. Martins
+
 
 ## Question 1 How are student academic outcomes distributed?  
 
@@ -75,8 +80,7 @@
 
 ### Data Analysis Process:
 1. Created a pivot table for the student academic outcome and unemployment rates.
-2. Copied the values into a new table and calculated
-    1. the dropout percentage for each level of unemployment rate, using the formula: D2/G2
+2. Copied the values into a new table and calculated 1) the dropout percentage for each level of unemployment rate, using the formula: D2/G2
 3. Change the data format into percentage.
 
 
