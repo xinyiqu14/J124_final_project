@@ -13,37 +13,37 @@ A sizable portion of college students drop out of their higher education each ye
 
 ## Data analysis and visualization
 
-## Question 1 How are student academic outcomes distributed?  
+### Question 1 How are student academic outcomes distributed?  
 
-### Data Analysis Process:
+#### Data Analysis Process:
 1. Created a pivot table for the student academic outcome.
 2. Filter out the missing values (blanks)
 3. Calculated the percentage of each category using the formula B2/B5, for example, the percentage of students who dropped out = number of dropout / total number
 4. Change the data format into percentage.
 
 ![Target Summary](./Q1/Q1.1.png)
-### Data visualization: Bar chart
+#### Data visualization: Bar chart
 
 [![Distribution of Students in Three Categories for academic success](./Q1/Q1.2.png 'Distribution of Students in Three Categories for academic success')](https://www.datawrapper.de/_/JgfGm/)
 
 
 
 
-## Question 2 How student academic outcomes differed by gender? 
+### Question 2 How student academic outcomes differed by gender? 
 
-### Data Analysis Process:
+#### Data Analysis Process:
 1. Created a pivot table for the student academic outcome and gender.
 2. Calculated the percentage of each category using the formula B3/E3, for example, the percentage of woman who dropped out = number of female who dropped out / number of total female
 3. Change the data format into percentage.
 
 ![Target Summary](./Q2/Q2.1.pic.jpg)
-### Data visualization: Stacked chart
+#### Data visualization: Stacked chart
 [![Student academic outcomes group by gender](./Q2/Q2.2.pic.jpg 'Student academic outcomes group by gender')](https://www.datawrapper.de/_/1ZTg5/)
 
 
-## Question 3 How student academic outcomes influenced by macroeconomic performance?
+### Question 3 How student academic outcomes influenced by macroeconomic performance?
 
-### Data Analysis Process:
+#### Data Analysis Process:
 
 1. Generated a new dummy variable to label the macroeconomic performance: 
     1. Added a new column with a copy of the “GDP” variable 
@@ -56,13 +56,13 @@ A sizable portion of college students drop out of their higher education each ye
 
 
 ![Target Summary](./Q3/Q3.1.pic.jpg)
-### Data visualization: Split bars
+#### Data visualization: Split bars
 [![Student academic outcomes group by macroeconomics performance](./Q3/Q3.2.pic.jpg 'Student academic outcomes group by macroeconomics performance')](https://www.datawrapper.de/_/8nJS9/)
 
 
-## Question 4 How student academic outcomes differed by mother’s occupation?
+### Question 4 How student academic outcomes differed by mother’s occupation?
 
-### Data Analysis Process:
+#### Data Analysis Process:
 1. Created a pivot table for the student academic outcome and mom’s occupations.
 2.  Removed the missing values by filing out the blanks.  
 ![Mother occupation summary](./Q4/Q4.1.pic.jpg)
@@ -76,13 +76,13 @@ A sizable portion of college students drop out of their higher education each ye
 
 
 ![Mother occupation dropout](./Q4/Q4.2.pic.jpg)
-### Data visualization: Table
+#### Data visualization: Table
 [![Student academic outcomes grouped by mother's occupation](./Q4/Q4.3.png "Student academic outcomes grouped by mother's occupation")](https://www.datawrapper.de/_/1CdxJ/)
 
 
-## Question 5 How student academic outcomes influenced by unemployment rate?
+### Question 5 How student academic outcomes influenced by unemployment rate?
 
-### Data Analysis Process:
+#### Data Analysis Process:
 1. Created a pivot table for the student academic outcome and unemployment rates.
 2. Copied the values into a new table and calculated 1) the dropout percentage for each level of unemployment rate, using the formula: D2/G2
 3. Change the data format into percentage.
@@ -90,7 +90,7 @@ A sizable portion of college students drop out of their higher education each ye
 
 ![Target Summary](./Q5/Q5.1.pic.jpg)
 ![Unemployment dropout rate](./Q5/Q5.2.pic.jpg)
-### Data visualization: Scatterplot
+#### Data visualization: Scatterplot
 [![Student dropout rates differed by unemployment rate](./Q5/Q5.3.png "Student dropout rates differed by unemployment rate")](https://www.datawrapper.de/_/wOUbM/)
 
 
