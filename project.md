@@ -70,3 +70,16 @@
 ![Mother occupation dropout](./Q4/Q4.2.pic.jpg)
 [![Student academic outcomes grouped by mother's occupation](./Q4/Q4.3.png "Student academic outcomes grouped by mother's occupation")](https://www.datawrapper.de/_/1CdxJ/)
 
+
+## Question 5 How student academic outcomes influenced by unemployment rate?
+
+### Data Analysis Process:
+1. Created a pivot table for the student academic outcome and unemployment rates.
+2. Copied the values into a new table and calculated 1) the dropout percentage for each level of unemployment rate, using the formula: D2/G2
+3. Change the data format into percentage.
+
+
+![Target Summary](./Q5/Q5.1.pic.jpg)
+![Unemployment dropout rate](./Q5/Q5.2.pic.jpg)
+[![Student dropout rates differed by unemployment rate](./Q5/Q5.3.png "Student dropout rates differed by unemployment rate")](https://www.datawrapper.de/_/wOUbM/)
+
