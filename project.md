@@ -10,6 +10,7 @@
 4. Change the data format into percentage.
 
 ![Target Summary](./Q1/Q1.1.png)
+- Data visualization: **Bar chart**
 
 [![Distribution of Students in Three Categories for academic success](./Q1/Q1.2.png 'Distribution of Students in Three Categories for academic success')](https://www.datawrapper.de/_/JgfGm/)
 
