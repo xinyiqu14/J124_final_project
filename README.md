@@ -2,7 +2,8 @@
 ### @Xinyi Qu
 
 ## Please read this first!
-**Data visualizations created by DataWrapper are hyperlinked !!!! Click the visualization picture and you should be redirected to DataWrapper**
+**Data visualizations created by DataWrapper are hyperlinked !!!!** 
+**Click the visualization picture and you should be redirected to DataWrapper**
 
 ## Folder:
 - Q1: screenshots to question 1
