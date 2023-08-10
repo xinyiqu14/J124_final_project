@@ -106,5 +106,8 @@ Dr. Miguel Cardona, Secretary of Education
 Phone number, (202) 456-1111
 
 3. Eunice Kwon, Director of Asian Pacific American Student Development at University of California, Berkeley. Email address is eunicekwon@berkeley.edu
-   
+
+## Additional sources required:
+1. The cross-time data on student academic outcomes. It can be accessed on the website of National Center for Education Statistics https://nces.ed.gov/programs/coe/indicator/coj/status-dropout-rates. This can enrich the analysis by providing an overall trend of dropout rates. 
+2. The cross-time data on macroeconomic indicators. It can be accessed on the website of World Bank https://data.worldbank.org/indicator/NY.GDP.DEFL.KD.ZG?locations=US. This can enrich the analysis to a time-series level.
 
