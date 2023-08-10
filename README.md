@@ -3,6 +3,7 @@
 
 ## Please read this carefully!
 **Data visualizations created by DataWrapper are hyperlinked !!!!** 
+
 **Click the visualization picture and you should be redirected to DataWrapper**
 
 ## Folder:
