@@ -104,3 +104,7 @@ Phone: (914) 216-1709. Berkeley, CA 94704
 2. People who may solve this issue:
 Dr. Miguel Cardona, Secretary of Education
 Phone number, (202) 456-1111
+
+3. Eunice Kwon, Director of Asian Pacific American Student Development at University of California, Berkeley. Email address is eunicekwon@berkeley.edu
+   
+
