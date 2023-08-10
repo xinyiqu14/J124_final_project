@@ -1,8 +1,10 @@
 # J124 Final Project
-**@Xinyi Qu**
+**By Xinyi Qu**
+
 
 ## Datasets:
-- [See all dataset](https://docs.google.com/spreadsheets/d/1YnxrwoXVAdxY6y30TRUoGm9s-aVauTdQ5aZrw2rXVwI/edit?usp=sharing)
+- Dataset: [Predict students' dropout and academic success. ](https://docs.google.com/spreadsheets/d/1YnxrwoXVAdxY6y30TRUoGm9s-aVauTdQ5aZrw2rXVwI/edit?usp=sharing)The link will redirect to google sheet. 
+
 
 ## Question 1 How are student academic outcomes distributed?  
 
@@ -35,6 +37,7 @@
 ## Question 3 How student academic outcomes influenced by macroeconomic performance?
 
 ### Data Analysis Process:
+
 1. Generated a new dummy variable to label the macroeconomic performance: 
     1. Added a new column with a copy of the “GDP” variable 
     2. Filter by condition
