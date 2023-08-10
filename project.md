@@ -51,6 +51,7 @@
 ### Data Analysis Process:
 1. Created a pivot table for the student academic outcome and mom’s occupations.
 2.  Removed the missing values by filing out the blanks.  
+![Mother occupation summary](./Q4/Q4.1.pic.jpg)
 3. Copied the values into a new table and calculated: 
    1. the dropout percentage for each mother’s occupation using the formula is B2/E2; 
    2. the enrolled percentage using the formula is C2/E2; 
@@ -59,7 +60,7 @@
 5. Sorted the sheet in descending order by percentage.
 
 
-![Mother occupation summary](./Q4/Q4.1.pic.jpg)
+
 ![Mother occupation dropout](./Q4/Q4.2.pic.jpg)
 [![Student academic outcomes grouped by mother's occupation](./Q4/Q4.3.png "Student academic outcomes grouped by mother's occupation")](https://www.datawrapper.de/_/1CdxJ/)
 
