@@ -6,10 +6,12 @@
 A sizable portion of college students drop out of their higher education each year. Such choices can have a significant impact on local economies, national communities, and the country as a whole, particularly in these turbulent and difficult times. The goal of this story is to delve deeply into the causes of these dropout rates by establishing linkages between seemingly unrelated economic and socio-cultural characteristics, such as macroeconomic performance metrics (e.g. GDP growth & unemployment rate) and demographic data on the student body (e.g. gender & parent occupation). This story will provide a multidimensional view of student dropout rates by establishing links between economic variables, sociocultural norms, and individual decisions. The aim is not just to understand the problem but to highlight intervention areas that can alleviate the situation.
 
 
-## Datasets:
+## Dataset:
 - Dataset: [Predict students' dropout and academic success. ](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention)The link will redirect to Kaggle. 
 - Original Source: [Predicting Student Dropout and Academic Success](https://www.mdpi.com/2306-5729/7/11/146) Valentim Realinho, Jorge Machado, Luís Baptista and Mónica V. Martins
 
+
+## Data analysis and visualization
 
 ## Question 1 How are student academic outcomes distributed?  
 
@@ -91,3 +93,14 @@ A sizable portion of college students drop out of their higher education each ye
 ### Data visualization: Scatterplot
 [![Student dropout rates differed by unemployment rate](./Q5/Q5.3.png "Student dropout rates differed by unemployment rate")](https://www.datawrapper.de/_/wOUbM/)
 
+
+## Potential source list:
+1. Specialist: 
+Tolani Britton, a scholar of higher education policy, has been promoted to associate professor with tenure at the Berkeley School of Education. 
+Email: tabritton@berkeley.edu. 
+Address: Office 4113, 2121 Berkeley Way. 
+Phone: (914) 216-1709. Berkeley, CA 94704
+
+2. People who may solve this issue:
+Dr. Miguel Cardona, Secretary of Education
+Phone number, (202) 456-1111
