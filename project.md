@@ -20,7 +20,7 @@ A sizable portion of college students drop out of their higher education each ye
 4. Change the data format into percentage.
 
 ![Target Summary](./Q1/Q1.1.png)
-- Data visualization: **Bar chart**
+### Data visualization: Bar chart
 
 [![Distribution of Students in Three Categories for academic success](./Q1/Q1.2.png 'Distribution of Students in Three Categories for academic success')](https://www.datawrapper.de/_/JgfGm/)
 
@@ -35,7 +35,7 @@ A sizable portion of college students drop out of their higher education each ye
 3. Change the data format into percentage.
 
 ![Target Summary](./Q2/Q2.1.pic.jpg)
-
+### Data visualization: Stacked chart
 [![Student academic outcomes group by gender](./Q2/Q2.2.pic.jpg 'Student academic outcomes group by gender')](https://www.datawrapper.de/_/1ZTg5/)
 
 
@@ -54,6 +54,7 @@ A sizable portion of college students drop out of their higher education each ye
 
 
 ![Target Summary](./Q3/Q3.1.pic.jpg)
+### Data visualization: Split bars
 [![Student academic outcomes group by macroeconomics performance](./Q3/Q3.2.pic.jpg 'Student academic outcomes group by macroeconomics performance')](https://www.datawrapper.de/_/8nJS9/)
 
 
@@ -73,6 +74,7 @@ A sizable portion of college students drop out of their higher education each ye
 
 
 ![Mother occupation dropout](./Q4/Q4.2.pic.jpg)
+### Data visualization: Table
 [![Student academic outcomes grouped by mother's occupation](./Q4/Q4.3.png "Student academic outcomes grouped by mother's occupation")](https://www.datawrapper.de/_/1CdxJ/)
 
 
@@ -86,5 +88,6 @@ A sizable portion of college students drop out of their higher education each ye
 
 ![Target Summary](./Q5/Q5.1.pic.jpg)
 ![Unemployment dropout rate](./Q5/Q5.2.pic.jpg)
+### Data visualization: Scatterplot
 [![Student dropout rates differed by unemployment rate](./Q5/Q5.3.png "Student dropout rates differed by unemployment rate")](https://www.datawrapper.de/_/wOUbM/)
 
