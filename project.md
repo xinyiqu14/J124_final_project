@@ -2,7 +2,7 @@
 **@Xinyi Qu**
 
 ## Datasets download:
-- ![Dataset](https://docs.google.com/spreadsheets/d/1YnxrwoXVAdxY6y30TRUoGm9s-aVauTdQ5aZrw2rXVwI/edit?usp=sharing)
+- [See all dataset](https://docs.google.com/spreadsheets/d/1YnxrwoXVAdxY6y30TRUoGm9s-aVauTdQ5aZrw2rXVwI/edit?usp=sharing)
 
 ## Question 1 How are student academic outcomes distributed?  
 
