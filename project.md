@@ -3,7 +3,7 @@
 
 
 ## Story pitch:
-A sizable portion of college students drop out of their higher education each year. Such choices can have a significant impact on local economies, national communities, and the country as a whole, particularly in these turbulent and difficult times. The goal of this story is to delve deeply into the causes of these dropout rates by establishing linkages between seemingly unrelated economic and socio-cultural characteristics, such as macroeconomic performance metrics (e.g. GDP growth & unemployment rate) and demographic data on the student body (e.g. gender & parent occupation). This story will provide a multidimensional view of student dropout rates by establishing links between economic variables, sociocultural norms, and individual decisions. The aim is not just to understand the problem but to highlight intervention areas that can alleviate the situation.
+A sizable portion of college students drop out of their higher education each year. Such choices can have a significant impact on local economies, national communities, and the country as a whole, particularly in these turbulent and difficult times. The goal of this story is to delve deeply into the causes of these dropout rates by establishing linkages between seemingly unrelated economic and socio-cultural characteristics, such as macroeconomic performance metrics (e.g. GDP growth & unemployment rate) and demographic data on the Portuguese student body (e.g. gender & parent occupation). This story will provide a multidimensional view of student dropout rates by establishing links between economic variables, sociocultural norms, and individual decisions. The aim is not just to understand the problem but to highlight intervention areas that can alleviate the situation.
 
 
 ## Dataset:
@@ -95,19 +95,14 @@ A sizable portion of college students drop out of their higher education each ye
 
 
 ## Potential source list:
-1. Specialist: 
-Tolani Britton, a scholar of higher education policy, has been promoted to associate professor with tenure at the Berkeley School of Education. 
-Email: tabritton@berkeley.edu. 
-Address: Office 4113, 2121 Berkeley Way. 
-Phone: (914) 216-1709. Berkeley, CA 94704
+1. Specialist in Portugal: Patrício V. Langa is Professor of Sociology, Comparative Studies in Higher Education, Public Policy on Science and Innovation at the Faculty of Education of the Eduardo Mondlane University (UEM) in Mozambique. Position: Programme Coordinator of the Doctoral Programme in Higher Education Studies (DPHES). Location: Block A, Room E-14. Email: planga@uwc.ac.za. Tel: +27 (0)21 959 9360 
 
-2. People who may solve this issue:
-Dr. Miguel Cardona, Secretary of Education
-Phone number, (202) 456-1111
+2. Specialist in the US: Tolani Britton, a scholar of higher education policy, has been promoted to associate professor with tenure at the Berkeley School of Education. Email: tabritton@berkeley.edu. Address: Office 4113, 2121 Berkeley Way. Phone: (914) 216-1709. Berkeley, CA 94704
 
-3. Eunice Kwon, Director of Asian Pacific American Student Development at University of California, Berkeley. Email address is eunicekwon@berkeley.edu
+3. People who may solve this issue: Eunice Kwon, Director of Asian Pacific American Student Development at University of California, Berkeley. Email address is eunicekwon@berkeley.edu
+   
+
 
 ## Additional sources required:
-1. The cross-time data on student academic outcomes. It can be accessed on the website of National Center for Education Statistics https://nces.ed.gov/programs/coe/indicator/coj/status-dropout-rates. This can enrich the analysis by providing an overall trend of dropout rates. 
-2. The cross-time data on macroeconomic indicators. It can be accessed on the website of World Bank https://data.worldbank.org/indicator/NY.GDP.DEFL.KD.ZG?locations=US. This can enrich the analysis to a time-series level.
-
+1. Since the only individual-level data I can find is on Portuguese student body, I think it would better to leverage my analysis and compare it to the US student academic outcomes at a macro level. The cross-time data on US student academic outcomes can be accessed on the website of [National Center for Education Statistics](https://nces.ed.gov/programs/coe/indicator/coj/status-dropout-rates). This can enrich the analysis with a view of international comparison.
+2. The cross-time data on macroeconomic indicators on different countries can be accessed on the website of [World Bank](https://data.worldbank.org/indicator/NY.GDP.DEFL.KD.ZG?locations=US). This can enrich the analysis to a time-series level.
