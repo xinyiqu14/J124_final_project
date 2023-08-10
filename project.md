@@ -1,5 +1,5 @@
 # J124 Final Project
-**By Xinyi Qu**
+### By Xinyi Qu
 
 
 ## Story pitch:
