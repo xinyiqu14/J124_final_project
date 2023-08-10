@@ -1,6 +1,8 @@
 # J124 Final Project
 ### By Xinyi Qu
 
+## !!! Please read the README.md carefully before you see this page
+
 
 ## Story pitch:
 A sizable portion of college students drop out of their higher education each year. Such choices can have a significant impact on local economies, national communities, and the country as a whole, particularly in these turbulent and difficult times. The goal of this story is to delve deeply into the causes of these dropout rates by establishing linkages between seemingly unrelated economic and socio-cultural characteristics, such as macroeconomic performance metrics (e.g. GDP growth & unemployment rate) and demographic data on the Portuguese student body (e.g. gender & parent occupation). This story will provide a multidimensional view of student dropout rates by establishing links between economic variables, sociocultural norms, and individual decisions. The aim is not just to understand the problem but to highlight intervention areas that can alleviate the situation.
